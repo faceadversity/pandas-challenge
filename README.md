@@ -12,6 +12,7 @@ Pandas and Jupyter Notebook were implemented in the formation of all data analys
   * % passing math (the percentage of students who passed math)
   * % passing reading (the percentage of students who passed reading)
   * % overall passing (the percentage of students who passed math AND reading)
+    ![districtsummary](https://github.com/faceadversity/pandas-challenge/assets/137361966/a924dfbd-510f-4a36-83e4-ac283b2e8f78)
 # School Summary
   * School name
   * School type
@@ -23,4 +24,8 @@ Pandas and Jupyter Notebook were implemented in the formation of all data analys
   * % passing math (the percentage of students who passed math)
   * % passing reading (the percentage of students who passed reading)
   * % overall passing (the percentage of students who passed math AND reading)
+    ![schoolsummary1](https://github.com/faceadversity/pandas-challenge/assets/137361966/66529e87-9fcb-42f8-8a41-9568cb98ee2f)
+    ![schoolsummary2](https://github.com/faceadversity/pandas-challenge/assets/137361966/db385c3a-0409-4b15-a04b-f9d77c356cc1)
+
+
 
