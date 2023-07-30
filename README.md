@@ -33,10 +33,10 @@ Pandas and Jupyter Notebook were implemented in the formation of all data analys
   A table of Bottom Performing Schools (by % Overall Passing) looks as follows:
     ![bottomperfschool](https://github.com/faceadversity/pandas-challenge/assets/137361966/4b4f5ddd-1dc6-4dd6-99c4-4cc348dc5f6a)
 # Math Scores by Grade
-  A table of Math Scores by Grade looks as follows:
+A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created. The table of Math Scores by Grade looks as follows:
     ![mathscores](https://github.com/faceadversity/pandas-challenge/assets/137361966/8f8e16aa-7c1c-4964-9594-320f3ce756c8)
 # Reading Scores by Grade
-  A table of Reading Scores by Grade looks as follows:
+A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created. The table of Reading Scores by Grade looks as follows:
     ![readingscores](https://github.com/faceadversity/pandas-challenge/assets/137361966/6f62364d-697a-49e4-a6b0-10c70a36de62)
 
 
