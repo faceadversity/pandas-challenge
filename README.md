@@ -48,6 +48,10 @@ The following table is created by grouping schools based on a reasonable approxi
 The following table is created by grouping schools based on school type (Charter vs. District) and is displayed belowed:
     ![scorestype](https://github.com/faceadversity/pandas-challenge/assets/137361966/896e2078-fe35-4f68-923e-669f8e4144b0)
 
+# PyCity Schools Analysis (re-listed from the base code)
+    * On average schools with higher budgets did not produce the best test results. The same applies when it comes to spending. Schools with the most budget per student ($645-680) produced worse outcomes with testing compared to low investments per student (<$585) producing the best possible outcomes.
+    * Charter private schools outperformed District public schools by very large margins across all metrics. This creates a slight bias due to a much smaller student population compared to District public schools.
+    * By quite a large margin, smaller populated schools vastly outperformed their larger counterparts in all metrics.
 
 
 
