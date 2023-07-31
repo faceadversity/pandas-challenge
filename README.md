@@ -38,6 +38,15 @@ A table that lists the average Math Score for students of each grade level (9th,
 # Reading Scores by Grade
 A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created. The table of Reading Scores by Grade looks as follows:
     ![readingscores](https://github.com/faceadversity/pandas-challenge/assets/137361966/6f62364d-697a-49e4-a6b0-10c70a36de62)
+# Scores by School Spending
+A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The table includes each of the following: Average Math Score, Average Reading Score, % Passing Math (The percentage of students that passed math), % Passing Reading (The percentage of students that passed reading), % Overall Passing (The percentage of students that passed math and reading)
+    ![scoreschoolspending](https://github.com/faceadversity/pandas-challenge/assets/137361966/acd24bc3-132a-4998-b61a-4e97fd353a6b)
+# Scores by School Size
+The following table is created by grouping schools based on a reasonable approximation of school size (Small, Medium, Large) and is displayed below:
+    ![scoresschoolsize](https://github.com/faceadversity/pandas-challenge/assets/137361966/3a623ed7-e1e4-406e-a25e-87e07e49378a)
+# Scores by School Type
+The following table is created by grouping schools based on school type (Charter vs. District) and is displayed belowed:
+    ![scorestype](https://github.com/faceadversity/pandas-challenge/assets/137361966/896e2078-fe35-4f68-923e-669f8e4144b0)
 
 
 
